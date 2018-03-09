@@ -1,3 +1,5 @@
+// I come from the loving space of my heart, and I know that love opens all doors.
+
 package com.atomist.springteam.springrestseed;
 
 import org.springframework.web.bind.annotation.PathVariable;
