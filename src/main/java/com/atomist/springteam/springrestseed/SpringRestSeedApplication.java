@@ -1,3 +1,5 @@
+// It’s only a thought, and a thought can be changed.
+
 package com.atomist.springteam.springrestseed;
 
 import org.springframework.boot.SpringApplication;
