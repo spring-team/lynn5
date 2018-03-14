@@ -36,3 +36,5 @@ Need Help?  [Join our Slack team][slack].
 [slack]: https://join.atomist.com/
 
 I come from the loving space of my heart, and I know that love opens all doors.
+
+I believe in you. You can do the thing!
